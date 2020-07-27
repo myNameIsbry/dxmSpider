@@ -1,0 +1,3 @@
+execjs
+aiohttp~=3.6.2
+lxml~=4.5.0
